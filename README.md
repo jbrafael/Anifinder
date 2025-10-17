@@ -39,3 +39,19 @@ npm install
 
 # Execute o projeto
 npm start
+O app estará disponível em http://localhost:3000
+
+🌍 Deploy
+Acesse a versão online hospedada no GitHub Pages:
+➡️ https://seu-usuario.github.io/anifinder
+
+💡 Sobre o projeto
+O AniFinder nasceu da ideia de unir programação e paixão por animes, servindo como uma vitrine interativa e educativa para quem quer explorar o universo dos animes enquanto aprende sobre desenvolvimento web.
+
+👨‍💻 Autor
+Jobson Rafael de Fraga
+📍 Desenvolvedor Web | Estudante de Sistemas para Internet (IFPE)
+🌐 LinkedIn
+💻 GitHub
+
+⭐ Se gostou do projeto, não esqueça de deixar uma star no repositório!
