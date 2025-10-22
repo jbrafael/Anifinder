@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# 🎬 AniFinder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**AniFinder** é um catálogo inteligente de animes desenvolvido com **React**, **Tailwind CSS** e a **API pública do MyAnimeList (Jikan API)**.  
+O objetivo do projeto é permitir que fãs de animes possam **pesquisar, descobrir e favoritar** seus títulos preferidos com uma interface moderna e responsiva.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Tecnologias utilizadas
 
-### `npm start`
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🌐 Jikan API (MyAnimeList)  
+- 💾 LocalStorage (para favoritos)  
+- ☁️ GitHub Pages (hospedagem)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🧩 Funcionalidades
 
-### `npm test`
+✅ Pesquisa de animes em tempo real  
+✅ Exibição de título, imagem, nota e sinopse  
+✅ Página de detalhes com trailer (YouTube embed)  
+✅ Favoritos armazenados localmente  
+✅ Layout responsivo e tema escuro  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠️ Como executar localmente
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/anifinder.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Acesse a pasta
+cd anifinder
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Instale as dependências
+npm install
 
-### `npm run eject`
+# Execute o projeto
+npm start
+O app estará disponível em http://localhost:3000
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🌍 Deploy
+Acesse a versão online hospedada no GitHub Pages:
+➡️ https://jbrafael.github.io/anifinder
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+💡 Sobre o projeto
+O AniFinder nasceu da ideia de unir programação e paixão por animes, servindo como uma vitrine interativa e educativa para quem quer explorar o universo dos animes enquanto aprende sobre desenvolvimento web.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+👨‍💻 Autor
+Jobson Rafael de Fraga
+📍 Desenvolvedor Web | Estudante de Sistemas para Internet (IFPE)
+🌐 LinkedIn
+💻 GitHub
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ Se gostou do projeto, não esqueça de deixar uma star no repositório!
